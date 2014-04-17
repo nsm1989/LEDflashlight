@@ -345,7 +345,3 @@ public class FlashLight extends Activity implements OnClickListener {
 				}
 			} catch (Exception e1) {
 				e1.printStackTrace();
-			}
-		}
-	}
-}
